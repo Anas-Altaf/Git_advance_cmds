@@ -8,6 +8,5 @@ public class Main {
 
     public static void greetUser() {
         System.out.println("Hello, User!");
-        System.out.println("Hello world!");
     }
 }
